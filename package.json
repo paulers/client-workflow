@@ -1,0 +1,31 @@
+{
+  "name": "client-workflow",
+  "version": "1.0.0",
+  "description": "client workflow scaffolding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulers/client-workflow.git"
+  },
+  "author": "Paul Kilanowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulers/client-workflow/issues"
+  },
+  "homepage": "https://github.com/paulers/client-workflow#readme",
+  "devDependencies": {
+    "babelify": "^7.3.0",
+    "browser-sync": "^2.13.0",
+    "browserify": "^13.0.1",
+    "fs": "0.0.2",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.4",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
